@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pampich1",
   "license": "ISC",
   "dependencies": {
     "@huggingface/inference": "^3.0.0",
